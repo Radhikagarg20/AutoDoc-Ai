@@ -55,7 +55,7 @@ git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
 
 
-### **2️⃣ Create a Virtual Environment (Optional but Recommended)
+### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
 ```sh
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
