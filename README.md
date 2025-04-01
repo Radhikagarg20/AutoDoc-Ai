@@ -55,6 +55,8 @@ cd AI-Text-Analyzer-Chatbot
 ### **2️⃣ Create a Virtual Environment (Optional)**
 
 python -m venv venv
+
+
 venv\Scripts\activate     
 
 ---
@@ -73,6 +75,8 @@ pip install -r requirements.txt
 
 ### **4️⃣ Add Your OpenAI API Key**
 Create a .env file and add:
+
+
 OPENAI_API_KEY=your-api-key-here
 
 ---
@@ -84,7 +88,7 @@ python app.py
 Open http://127.0.0.1:5000/ in your browser.
 
 
-## 🛠 API Endpoints
+### **🛠 API Endpoints**
 
 #### **Upload a File**
 - **POST /upload**
