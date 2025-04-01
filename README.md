@@ -83,29 +83,6 @@ Open http://127.0.0.1:5000/ in your browser.
 
 ---
 
-### **🛠 API Endpoints**
-
-#### **Upload a File**
-- **POST /upload**
-
-  **Description:** Extracts text from uploaded files.
-
-  **Request:** `multipart/form-data`
-
----
-
-#### **Analyze Text**
-- **POST /analyze**
-
-  **Description:** Performs text analysis based on the selected feature.
-
-  **Request:**
-  ```json
-  {
-    "text": "Your text here",
-    "feature": "summary"
-  }
-
 
 ## 👨‍💻 Technologies Used
 - **Python (Flask):** Web framework for building the application.
