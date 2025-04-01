@@ -50,7 +50,7 @@ cd AI-Text-Analyzer-Chatbot
 
 ---
 
-2️⃣ Create a Virtual Environment (Optional)
+### **2️⃣ Create a Virtual Environment (Optional)**
 
 
 python -m venv venv
