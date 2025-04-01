@@ -67,12 +67,6 @@ pip install -r requirements.txt
 
 
 
-### **3️⃣ Install Dependencies**
-
-pip install -r requirements.txt
-
-
-
 ### **4️⃣ Add Your OpenAI API Key**
 Create a .env file and add:
 
