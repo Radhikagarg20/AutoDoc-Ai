@@ -29,11 +29,22 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 
 ## 📂 Project Structure
 
+📦 AutoDoc-AI
+│-- 📂 static/                  # Static files (CSS, JS)
+│-- 📂 templates/               # HTML templates
+│-- 📂 uploads/                 # Uploaded files storage
+│-- 📂 utils/                   # Core utility functions
+│   │-- extract_text.py         # Extract text from files
+│   │-- validate_text.py        # Validate text quality
+│   │-- detect_language.py      # Detect language
+│   │-- summarize.py            # Summarize text
+│   │-- keywords.py             # Extract keywords
+│   │-- metrics.py              # Calculate text complexity
+│-- .env                        # API key (DO NOT SHARE)
+│-- app.py                      # Main Flask application
+│-- requirements.txt            # Project dependencies
+│-- README.md                   # Documentation
 
-📦 AI-Text-Analyzer-Chatbot │-- 📂 static/ # Static files (CSS, JS) │-- 📂 templates/ # HTML templates │-- 📂 uploads/ # Uploaded files storage │-- 📂 utils/ # Core utility functions │ │-- extract_text.py # Extract text from files │ │-- validate_text.py # Validate text quality │ │-- detect_language.py # Detect language │ │-- summarize.py # Summarize text │ │-- keywords.py # Extract keywords │ │-- metrics.py # Calculate text complexity │-- .env # API key (DO NOT SHARE) │-- app.py # Main Flask application │-- requirements.txt # Project dependencies │-- README.md # Documentation
-
-
-v
 ---
 
 ## 🚀 Installation & Setup
@@ -42,7 +53,6 @@ v
 ```sh
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
-
 
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
