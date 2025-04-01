@@ -45,7 +45,6 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 │-- README.md                   # Documentation
 │-- .gitignore                  # Ignore unnecessary files
 
-
 ---
 
 ## 🚀 Installation & Setup
