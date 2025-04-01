@@ -85,64 +85,74 @@ python app.py
 
 Open http://127.0.0.1:5000/ in your browser.
 
-###🛠 API Endpoints
-Upload a File
-POST /upload
-
-Description: Extracts text from uploaded files.
-
-Request: multipart/form-data
-
-Analyze Text
-POST /analyze
-
-Description: Performs text analysis based on the selected feature.
-
-Request: JSON
-
-{
-  "text": "Your text here",
-  "feature": "summary"
-}
 
 
-Chat with AI
-POST /chat
 
-Description: Chatbot interaction using OpenAI.
 
-Request: JSON
+## 🛠 API Endpoints
 
-{
-  "message": "Hello, how are you?"
-}
+#### **Upload a File**
+- **POST /upload**
 
-👨‍💻 Technologies Used
-Python (Flask)
-OpenAI GPT API
-JavaScript, HTML, CSS
-dotenv (for environment variables)
+  **Description:** Extracts text from uploaded files.
 
-🎯 Future Enhancements
-✅ Speech-to-Text Processing
-✅ User Authentication (Login/Signup)
-✅ Dark Mode UI
-✅ Multilingual Support
+  **Request:** `multipart/form-data`
 
-🤝 Contributing
-Fork this repository.
-Clone your fork.
-Create a new branch (feature-branch).
-Commit your changes.
-Push to your GitHub and submit a Pull Request.
+---
 
-📝 License
+#### **Analyze Text**
+- **POST /analyze**
+
+  **Description:** Performs text analysis based on the selected feature.
+
+  **Request:**
+  ```json
+  {
+    "text": "Your text here",
+    "feature": "summary"
+  }
+
+
+
+
+
+
+
+# AI-Powered Text Analyzer & Chatbot
+
+An intelligent **Flask-based AI application** that allows users to **analyze text** (summarization, language detection, keyword extraction, etc.) and interact with an **AI chatbot** powered by OpenAI.
+
+## 👨‍💻 Technologies Used
+- **Python (Flask):** Web framework for building the application.
+- **OpenAI GPT API:** For generating AI responses and text analysis.
+- **JavaScript, HTML, CSS:** Front-end technologies for user interaction.
+- **dotenv:** For managing environment variables (API keys).
+
+---
+
+## 🎯 Future Enhancements
+✅ **Speech-to-Text Processing:** Allow users to interact with the app using voice input.  
+✅ **User Authentication (Login/Signup):** Add authentication features for personalized user experience.  
+✅ **Dark Mode UI:** Implement a dark mode interface for improved user accessibility.  
+✅ **Multilingual Support:** Add support for multiple languages in the AI chatbot.
+
+---
+
+## 🤝 Contributing
+1. Fork this repository.
+2. Clone your fork.
+3. Create a new branch (feature-branch).
+4. Commit your changes.
+5. Push to your GitHub and submit a Pull Request.
+
+---
+
+## 📝 License
 This project is open-source under the MIT License.
 
 🚀 Like this project? Give it a ⭐ on GitHub!
 
-
-
+---
 
 ## 🚀 Installation & Setup
 
@@ -150,6 +160,3 @@ This project is open-source under the MIT License.
 ```sh
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
-
----
-
