@@ -51,17 +51,21 @@ cd AI-Text-Analyzer-Chatbot
 ---
 
 2️⃣ Create a Virtual Environment (Optional)
+
+
 python -m venv venv
 venv\Scripts\activate     
 
 ---
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 ---
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 ---
