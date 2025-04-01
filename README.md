@@ -58,7 +58,6 @@ cd AI-Text-Analyzer-Chatbot
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 python -m venv venv
-source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
 
 ---
@@ -110,10 +109,6 @@ Open http://127.0.0.1:5000/ in your browser.
   }
 
 
-# AI-Powered Text Analyzer & Chatbot
-
-An intelligent **Flask-based AI application** that allows users to **analyze text** (summarization, language detection, keyword extraction, etc.) and interact with an **AI chatbot** powered by OpenAI.
-
 ## 👨‍💻 Technologies Used
 - **Python (Flask):** Web framework for building the application.
 - **OpenAI GPT API:** For generating AI responses and text analysis.
@@ -127,15 +122,6 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 ✅ **User Authentication (Login/Signup):** Add authentication features for personalized user experience.  
 ✅ **Dark Mode UI:** Implement a dark mode interface for improved user accessibility.  
 ✅ **Multilingual Support:** Add support for multiple languages in the AI chatbot.
-
----
-
-## 🤝 Contributing
-1. Fork this repository.
-2. Clone your fork.
-3. Create a new branch (feature-branch).
-4. Commit your changes.
-5. Push to your GitHub and submit a Pull Request.
 
 ---
 
