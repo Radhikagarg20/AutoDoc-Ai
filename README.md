@@ -81,8 +81,8 @@ python app.py
 
 Open http://127.0.0.1:5000/ in your browser.
 
----
 
+---
 
 ## 👨‍💻 Technologies Used
 - **Python (Flask):** Web framework for building the application.
@@ -104,8 +104,6 @@ Open http://127.0.0.1:5000/ in your browser.
 This project is open-source under the MIT License.
 
 🚀 Like this project? Give it a ⭐ on GitHub!
-
----
 
 ## 🚀 Installation & Setup
 
