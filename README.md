@@ -86,9 +86,6 @@ python app.py
 Open http://127.0.0.1:5000/ in your browser.
 
 
-
-
-
 ## 🛠 API Endpoints
 
 #### **Upload a File**
@@ -111,11 +108,6 @@ Open http://127.0.0.1:5000/ in your browser.
     "text": "Your text here",
     "feature": "summary"
   }
-
-
-
-
-
 
 
 # AI-Powered Text Analyzer & Chatbot
