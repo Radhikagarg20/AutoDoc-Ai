@@ -36,10 +36,15 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 │   │-- summarize.py            # Summarize text
 │   │-- keywords.py             # Extract keywords
 │   │-- metrics.py              # Calculate text complexity
+│-- 📂 tests/                   # Unit tests for functions
+│-- 📂 logs/                    # Log files (for debugging)
 │-- .env                        # API key (DO NOT SHARE)
 │-- app.py                      # Main Flask application
+│-- config.py                   # Configuration settings
 │-- requirements.txt            # Project dependencies
 │-- README.md                   # Documentation
+│-- .gitignore                  # Ignore unnecessary files
+
 
 ---
 
