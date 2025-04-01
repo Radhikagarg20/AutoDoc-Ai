@@ -46,37 +46,38 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 ### **1️⃣ Clone the Repository**
 
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
+
+
 cd AI-Text-Analyzer-Chatbot
 
 ---
 
 ### **2️⃣ Create a Virtual Environment (Optional)**
 
-
 python -m venv venv
 venv\Scripts\activate     
 
 ---
 
-3️⃣ Install Dependencies
+### **3️⃣ Install Dependencies**
 
 pip install -r requirements.txt
 
 ---
 
-3️⃣ Install Dependencies
+### **3️⃣ Install Dependencies**
 
 pip install -r requirements.txt
 
 ---
 
-4️⃣ Add Your OpenAI API Key
+### **4️⃣ Add Your OpenAI API Key**
 Create a .env file and add:
 OPENAI_API_KEY=your-api-key-here
 
 ---
 
-5️⃣ Run the Application
+### **5️⃣ Run the Application**
 python app.py
 
 
