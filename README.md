@@ -92,6 +92,7 @@ Open http://127.0.0.1:5000/ in your browser.
 
 ---
 
+
 ## 🎯 Future Enhancements
 ✅ **Speech-to-Text Processing:** Allow users to interact with the app using voice input.  
 ✅ **User Authentication (Login/Signup):** Add authentication features for personalized user experience.  
@@ -100,14 +101,17 @@ Open http://127.0.0.1:5000/ in your browser.
 
 ---
 
+
 ## 📝 License
 This project is open-source under the MIT License.
 
 Like this project? Give it a ⭐ on GitHub!
 
+
 ## 🚀 Installation & Setup
 
-### ** Clone the Repository**
+### Clone the Repository
 ```sh
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
+
