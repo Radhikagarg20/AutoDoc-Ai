@@ -103,11 +103,11 @@ Open http://127.0.0.1:5000/ in your browser.
 ## 📝 License
 This project is open-source under the MIT License.
 
-🚀 Like this project? Give it a ⭐ on GitHub!
+Like this project? Give it a ⭐ on GitHub!
 
 ## 🚀 Installation & Setup
 
-### **1️⃣ Clone the Repository**
+### ** Clone the Repository**
 ```sh
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
