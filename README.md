@@ -1,10 +1,6 @@
-# AutoDoc-Ai
-
-# 🧠 AI-Powered Text Analyzer & Chatbot
+# AI-Powered Text Analyzer & Chatbot
 
 An intelligent **Flask-based AI application** that allows users to **analyze text** (summarization, language detection, keyword extraction, etc.) and interact with an **AI chatbot** powered by OpenAI.
-
----
 
 ## 🌟 Features
 
