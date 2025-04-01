@@ -44,15 +44,15 @@ An intelligent **Flask-based AI application** that allows users to **analyze tex
 ## 🚀 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
-```sh
+
 git clone https://github.com/your-username/AI-Text-Analyzer-Chatbot.git
 cd AI-Text-Analyzer-Chatbot
 
 ---
 
-2️⃣ Create a Virtual Environment (Optional but Recommended)
+2️⃣ Create a Virtual Environment (Optional)
 python -m venv venv
-venv\Scripts\activate     # On Windows
+venv\Scripts\activate     
 
 ---
 
