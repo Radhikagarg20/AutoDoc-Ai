@@ -1,5 +1,6 @@
 ﻿Flask==2.3.2
 gunicorn
+python-dotenv
 pdfplumber==0.10.3
 python-docx==0.8.11
 langdetect==1.0.9
