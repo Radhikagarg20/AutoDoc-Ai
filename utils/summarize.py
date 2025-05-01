@@ -1,7 +1,6 @@
 from transformers import pipeline
 
-# Load summarization model
-summarizer = pipeline("summarization")
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
 
 def generate_summary(text):
     try:
