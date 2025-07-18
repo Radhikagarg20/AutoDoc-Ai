@@ -6,7 +6,7 @@ python-docx==0.8.11
 langdetect==1.0.9
 googletrans==4.0.0rc1
 transformers==4.31.0
-torch==2.0.1
+torch==2.5.0
 rake-nltk==1.0.6
 language-tool-python==2.7.1
 nltk==3.8.1
