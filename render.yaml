@@ -1,9 +1,6 @@
 services:
   - type: web
-    name: autodoc-backend
+    name: autodoc-ai-new
     env: python
-    buildCommand: ""
+    buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app
-    envVars:
-      - key: OPENAI_API_KEY
-        value: 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
