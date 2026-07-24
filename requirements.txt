@@ -2,8 +2,6 @@ flask
 gunicorn
 python-dotenv
 openai==2.46.0
-transformers
-torch
 pdfplumber
 python-docx
 langdetect
