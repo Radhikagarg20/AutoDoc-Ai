@@ -1,13 +1,12 @@
 flask
 gunicorn
 python-dotenv
-openai
+openai==2.46.0
 transformers
 torch
 pdfplumber
 python-docx
 langdetect
-googletrans==4.0.0-rc1
 rake-nltk
 yake
 language-tool-python
